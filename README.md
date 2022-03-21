@@ -11,8 +11,8 @@ Repo includes three types of models:
 [Source on Kaggle](https://www.kaggle.com/c/rossmann-store-sales)
 
 **Winning solution:**
-- [Discussion in Kaggle)[https://www.kaggle.com/c/rossmann-store-sales/discussion/18024)
-- [Interview on Medium](https://medium.com/kaggle-blog/rossmann-store-sales-winners-interview-1st-place-gert-jacobusse-a14b271659b)
+- [Discussion in Kaggle](https://www.kaggle.com/c/rossmann-store-sales/discussion/18024)
+- Interview on Medium](https://medium.com/kaggle-blog/rossmann-store-sales-winners-interview-1st-place-gert-jacobusse-a14b271659b)
 
 **Inspirations**
 - https://www.kaggle.com/xwxw2929/rossmann-sales-top1   
