@@ -1,6 +1,12 @@
 # Rossmann Sales Prediction
 
-Reworking the rossmann sales prediction from 6 years ago for training session.
+Reworking the rossmann sales prediction kaggle challenge from 6 years ago for 
+an upcoming training session.
+
+Repo includes three types of models:   
+- [XGBoost](https://xgboost.readthedocs.io/en/stable/)
+- [Prophet](https://facebook.github.io/prophet/)
+- [Temporal-Fusion-Transformer](https://arxiv.org/abs/1912.09363)
 
 Source: https://www.kaggle.com/c/rossmann-store-sales
 
